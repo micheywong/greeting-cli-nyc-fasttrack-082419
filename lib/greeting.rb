@@ -2,8 +2,7 @@
 def greeting(name)
   
   name = name.strip
-  
-  puts "Hello #{name}. It's nice to meet you."
+  print "Hello #{name}. It's nice to meet you."
 end
 
 puts "Hello #{name}. It's nice to meet you."
